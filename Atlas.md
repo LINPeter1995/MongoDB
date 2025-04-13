@@ -22,3 +22,13 @@ MongoDB Command Line Database Tools Download
 https://www.mongodb.com/try/download/database-tools
 
 下載解壓縮複製bin貼上C:\Program Files\MongoDB
+
+bin改名Command Line Database Tools
+
+
+
+
+
+
+
+
