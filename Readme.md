@@ -4,7 +4,9 @@
 
 轉存mongo.cfg再存回
 
-加入 security authorization: enabled
+加入 #security:
+security:
+  authorization: enabled
 
 儲存
 
