@@ -13,9 +13,11 @@ Non-Clustered Index(除PK以外的所有索引，佔用空間)
 
 PITR(Time-In-Time Recovery)
 
-自動備份/手動備份(人工、稽核) 差異備份
-
 ---------------------------------------------------
+
+自動備份(Commandline+工作排程器)
+
+手動備份(GUI介面)
 
 MongoDB Command Line Database Tools Download
 
@@ -24,6 +26,8 @@ https://www.mongodb.com/try/download/database-tools
 下載解壓縮複製bin貼上C:\Program Files\MongoDB
 
 bin改名Command Line Database Tools
+
+
 
 
 
