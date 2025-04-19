@@ -1,3 +1,5 @@
+# 建議直接用Atlas
+
 MongoDB Atlas
 
 GOOGLE 帳密連接
