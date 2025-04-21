@@ -20,7 +20,7 @@
 
 2. 安裝 MongoDB Relational Migrator
 
-3. MongoDB Connector 的初步介紹 (適用於 Power BI Desktop、Excel -> MongoDB Self-Hosted)"
+3. MongoDB Connector 的初步介紹 (適用於 Power BI Desktop、Excel -> MongoDB Self-Hosted)
 
 1. MongoDB Connector 的實際操作
  
