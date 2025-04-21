@@ -30,14 +30,14 @@
    
 4. 使用 Power BI 建立樞紐分析表
 
-提升MongoDB資料庫延展性的解決方案
+1. 提升MongoDB資料庫延展性的解決方案
 
-Self-Host MongoDB提升延展性的解決方案
+2. Self-Host MongoDB提升延展性的解決方案
 
-認識MongoDB Atlas
+3. 認識MongoDB Atlas
 
-匯入資料到MongoDB Atlas
+4. 匯入資料到MongoDB Atlas
 
-認識MongoDB Chart
+5. 認識MongoDB Chart
 
-管理MongoDB Atlas資料庫
+6. 管理MongoDB Atlas資料庫
