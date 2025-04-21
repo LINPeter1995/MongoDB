@@ -16,28 +16,28 @@
 
 4.淺談從各個關聯式資料庫移轉資料到MongoDB
 
-1. MySQL 匯入至 MongoDB的步驟
+1.MySQL 匯入至 MongoDB的步驟
 
-2. 安裝 MongoDB Relational Migrator
+2.安裝 MongoDB Relational Migrator
 
-3. MongoDB Connector 的初步介紹 (適用於 Power BI Desktop、Excel -> MongoDB Self-Hosted)
+3.MongoDB Connector 的初步介紹 (適用於 Power BI Desktop、Excel -> MongoDB Self-Hosted)
 
-1. MongoDB Connector 的實際操作
+1.MongoDB Connector 的實際操作
  
-2. Visual C++ Redistributable (x64) 安裝
+2.Visual C++ Redistributable (x64) 安裝
 
-3. 整合 MongoDB BI Connector 跟 ODBC 資料
+3.整合 MongoDB BI Connector 跟 ODBC 資料
  
-4. 使用 Power BI 建立樞紐分析表
+4.使用 Power BI 建立樞紐分析表
 
-1. 提升MongoDB資料庫延展性的解決方案
+1.提升MongoDB資料庫延展性的解決方案
 
-2. Self-Host MongoDB提升延展性的解決方案
+2.Self-Host MongoDB提升延展性的解決方案
 
-3. 認識MongoDB Atlas
+3.認識MongoDB Atlas
 
-4. 匯入資料到MongoDB Atlas
+4.匯入資料到MongoDB Atlas
 
-5. 認識MongoDB Chart
+5.認識MongoDB Chart
 
-6. 管理MongoDB Atlas資料庫
+6.管理MongoDB Atlas資料庫
