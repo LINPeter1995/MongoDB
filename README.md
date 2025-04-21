@@ -27,7 +27,7 @@
 2. Visual C++ Redistributable (x64) 安裝
 
 3. 整合 MongoDB BI Connector 跟 ODBC 資料
-   
+ 
 4. 使用 Power BI 建立樞紐分析表
 
 1. 提升MongoDB資料庫延展性的解決方案
