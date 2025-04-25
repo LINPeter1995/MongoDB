@@ -1,5 +1,13 @@
 # 筆記
 
+MongoDB Database Tools Downloads
+
+https://www.mongodb.com/try/download/database-tools/releases/archive
+
+MongoDB Tools Free
+
+https://www.mongodb.com/try/download/shell
+
 1.建立MongoDB使用者帳號與步驟(須重啟服務才會生效)
 
 2.mongod.cfg的修改教學
