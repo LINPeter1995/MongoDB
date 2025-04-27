@@ -12,11 +12,9 @@ uri = "mongodb+srv://Peter:Peter@cluster0.lobr68x.mongodb.net/"
 
 client = MongoClient(uri)
 
-# Replace with your database and collection names
 db = client.FullTextDB
 collection = db.LodgingCollection
 
-# Run Atlas Search aggregation
 pipeline = [
     {
         "$search": {
@@ -33,7 +31,6 @@ pipeline = [
 
 results = collection.aggregate(pipeline)
 
-# Print results
 for doc in results:
     print(doc)
 
